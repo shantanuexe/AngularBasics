@@ -1,3 +1,3 @@
 # AngularBasics
 Basic Angular Code 
-<br>Author Shantanu Singh
+<br>Author Shantanu Singh 
